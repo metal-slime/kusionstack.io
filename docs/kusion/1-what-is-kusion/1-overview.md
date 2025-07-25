@@ -43,7 +43,7 @@ There are two key workflows for Kusion:
 
 * **Platform as Code**
 
-	Specify desired application intent through declarative configuration code, drive continuous deployment with any CI/CD or GitOps systems to match desired intent. No ad-hoc scripts, no hard to maintain custom workflows, just declarative configuration code.
+	Specify desired application intent through declarative configuration code, drive continuous deployment with any CI/CD or GitOps systems to match desired intent. No ad-hoc scripts, no hard-coded custom workflows, just declarative configuration code.
 
 * **Dynamic Configuration Management**
 
